@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         StringCalculator calculator = new StringCalculator();
-
+        System.out.print("Gay");
         Scanner scanner = new Scanner(System.in);
 
         try {
